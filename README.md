@@ -110,6 +110,7 @@ Improve accessibility
 
 Modularize JS logic
 
+Author
 Naksh Garg
 B.Tech CSE | Web Development & System Design
 GitHub: https://github.com/NakshGarg
