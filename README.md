@@ -25,20 +25,6 @@ Emscripten – Compiles native code to WebAssembly
 
 Poki SDK – Game lifecycle hooks (ads, pause/resume)
 
-📂 Project Structure
-Drive-Mad/
-│
-├── index.html              # Main HTML entry point
-├── webapp/
-│   ├── fancade.css         # Game UI & layout styles
-│   ├── index.js            # Auto-generated Emscripten loader
-│   ├── source_min.js       # Game-specific logic
-│   ├── cover.jpg           # Game cover image
-│   └── favicon.ico         # Favicon
-│
-├── poki-sdk.js              # Poki platform SDK
-└── README.md                # Project documentation
-
 ⚙️ How It Works (High Level)
 
 The browser loads index.html
@@ -123,8 +109,6 @@ Replace external dependencies with local assets
 Improve accessibility
 
 Modularize JS logic
-
-👤 Author
 
 Naksh Garg
 B.Tech CSE | Web Development & System Design
